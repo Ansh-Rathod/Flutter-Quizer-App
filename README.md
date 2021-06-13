@@ -36,10 +36,10 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ```
 # Clone this repository
-$ git clone https://github.com/Appii00/Quizer
+$ git clone https://github.com/Appii00/Flutter-Quizer-App
 
 # Go into the repository
-$ cd Quizer
+$ cd Flutter-Quizer-App
 
 # Install dependencies
 $ flutter packages get
