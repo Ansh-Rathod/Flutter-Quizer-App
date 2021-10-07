@@ -23,12 +23,12 @@ A new Flutter project with [OpenTdb Api](https://opentdb.com/api_config.php).
 
 <br>
 <p align="center">
-<img src="screenshots\Screenshot_20210613-085506.jpg" width="30%">
-<img src="screenshots\Screenshot_20210613-085513.jpg" width="30%">
-<img src="screenshots\Screenshot_20210613-085522.jpg" width="30%">
-<img src="screenshots\Screenshot_20210613-085541.jpg" width="30%">
-<img src="screenshots\Screenshot_20210613-085547.jpg" width="30%">
-<img src="screenshots\Screenshot_20210613-085557.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085506.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085513.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085522.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085541.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085547.jpg" width="30%">
+<img src="screenshots/Screenshot_20210613-085557.jpg" width="30%">
 </p>
 
 ## How to use
